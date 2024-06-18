@@ -1,0 +1,16 @@
+.custom-list li{
+    list-style-type: disc; 
+    font-size: 15px;
+	letter-spacing: 1px;
+	line-height: 15px;
+    margin: 3px;
+}
+
+.privacy-text p strong,.privacy-text h1,.privacy-text h2{
+    color: #022c56;
+}
+
+ul{
+    list-style-type: disc;
+}
+
